@@ -12,7 +12,7 @@ const HeroSection = () => {
       <div className='absolute inset-0 -z-10 bg-gradient-to-b from-transparent from-70% to-black'></div>
       <div className='relative z-20 flex h-screen flex-col justify-end pb-20'>
         <img src={logo} alt="Restora" className='w-full p-4'/>
-        <p className='p-4 text-lg tracking-tight text-white'>Paris</p>
+        <p className='p-4 text-lg tracking-tight text-white'>India</p>
       </div>
     </section>
   )
