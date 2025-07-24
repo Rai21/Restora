@@ -7,19 +7,18 @@ Perfect for showcasing a restaurant, food delivery app, or any stylish brand/pro
 
 ## 🚀 Features
 
-- ⚡️ Built with React (Vite or CRA)
+- ⚡️ Built with React (Vite)
 - 🎨 Styled using Tailwind CSS (utility-first framework)
 - 🧠 Smooth animations with Framer Motion
 - 🌐 Fully responsive design (mobile-first)
 - 🧩 Reusable and modular component structure
-- 🌓 Dark mode support *(optional)*
 - 🧼 Clean and developer-friendly codebase
 
 ---
 
-## 📸 Demo
 
-> **Live Demo**: [https://your-demo-link.vercel.app](https://your-demo-link.vercel.app) *(replace with your deployed URL)*
+
+> **Live Demo**: [https://restora-liart.vercel.app/]
 
 # React + Vite
 
